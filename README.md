@@ -49,4 +49,4 @@ Ce projet consiste à développer une application mobile Android capable d'inter
 
 1. Clonez ce dépôt sur votre machine :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git
+   git clone  https://github.com/Salma-CHAJARI/Back_end_Volley.git
