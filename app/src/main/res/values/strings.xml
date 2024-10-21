@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">projetws</string>
+    <string-array name="villes">
+        <item>Casablanca</item>
+        <item>El jadida</item>
+        <item>Rabat</item>
+        <item>Tanger</item>
+        <item>Agadir</item>
+        <item>Kech</item>
+    </string-array>
+    <string name="affiche">Afficher Etudiant</string>
+    <string name="ajout">Ajouter Etudiant</string>
+</resources>

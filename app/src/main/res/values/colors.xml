@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#7B1FA2</color>
+    <color name="primaryColor">#300356</color>
+    <color name="secondaryColor">#03DAC5</color>
+    <color name="textColor">#333333</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="buttonColor">#7B1FA2</color>
+    <color name="editTextBackground">#F2F2F2</color>
+    <color name="cc">#FAF0FB</color>
+
+</resources>
