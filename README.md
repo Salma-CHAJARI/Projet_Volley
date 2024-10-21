@@ -50,3 +50,16 @@ Ce projet consiste à développer une application mobile Android capable d'inter
 1. Clonez ce dépôt sur votre machine :
    ```bash
    git clone  https://github.com/Salma-CHAJARI/Back_end_Volley.git
+2.Ouvrir le projet dans android studio;
+3.Runner le projet dans un device ou sur votre téléphone android à l'aide d'un cable.
+
+## Auteur
+
+- *CHAJARI Salma* - Étudiante à l'Université Chouaib Doukkali, Ecole Nationale des Sciences Appliquées d'El Jadida.
+
+## Encadré par
+
+- *Pr. M. LACHGAR*
+
+## Vidéos de réalisation
+-Video avec affichage de base de données:
